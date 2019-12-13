@@ -1,0 +1,67 @@
+body {
+    margin: 10px;
+    padding: 2px;
+
+}
+
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+
+
+/***********Links start*********************/
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: dimgrey;
+    text-decoration-line: none;
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+
+}
+
+
+/***********Links slut**********************/
+
+
+
+/***********Tekst/skrift start**************/
+
+h1 {
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+
+}
+
+h2 {
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    font-size: 10px;
+    color: dimgrey;
+}
+
+h3 {
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color: dimgrey;
+}
+
+p {
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin: 50px;
+
+}
+
+
+
+/***********Tekst/skrift start**************/
